@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia functions involving the handling of negative numbers during squaring operations. The original function `my_function` produces incorrect results when given negative inputs, due to operator precedence issues. The solution provides the correct implementation using parentheses to ensure the negative number is squared correctly.
